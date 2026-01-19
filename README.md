@@ -106,7 +106,15 @@ Then, use [V2XFormer](https://github.com/tianqi-wang1996/DeepAccident) according
 This project is based on the following open-source projects: [BEVerse](https://github.com/zhangyp15/BEVerse), [Fiery](https://github.com/wayveai/fiery), [open-mmlab](https://github.com/open-mmlab), and [DeepAccident](https://arxiv.org/pdf/2304.01168).
 
 ## Citation
-
+@techreport{cvips2024,
+  title     = {Connected Vision for Increased Pedestrian Safety (CVIPS)},
+  author    = {Bhagavatula, Vijayakumar and Sankaranarayanan, Aswin and Shenkut, Dereje},
+  institution = {Carnegie Mellon University, Safety21 University Transportation Center},
+  year      = {2024},
+  month     = {July},
+  url       = {https://rosap.ntl.bts.gov/view/dot/77491},
+  note      = {Supported by U.S. Department of Transportation, Office of the Assistant Secretary for Research and Technology}
+}
 
 
 
